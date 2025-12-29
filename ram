@@ -2,4 +2,12 @@ doing git practice
 testing bhai
 lab testing git
 second level testing
+<<<<<<< Updated upstream
 brach 1 testing
+=======
+<<<<<<< Updated upstream
+=======
+brach 1 testing
+stash testing
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
